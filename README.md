@@ -30,6 +30,7 @@ o	Kredi Onayı Tahmini (Sınıflandırma Problemi): Kredi onay durumunu tahmin e
 o	Kredi Miktarı Tahmini (Regresyon Problemi): Kredi miktarını tahmin etmek için Linear Regression, Support Vector Regression ve Random Forest Regression gibi regresyon algoritmaları kullanıldı. Modellerin performansı Mean Squared Error (MSE), Mean Absolute Error (MAE) ve R2 Score gibi metriklerle değerlendirildi.
 
 Sonuç
+
 Bu proje, bankaların kredi onay süreçlerini daha iyi anlamalarına ve optimize etmelerine yardımcı olmayı hedeflemektedir. Veri analizi ve modelleme adımları sayesinde, kredi başvurularının hangi faktörler tarafından etkilendiği ve bu başvuruların sonucunun nasıl tahmin edilebileceği üzerine değerli içgörüler elde edilecektir. Projenin çıktıları, bankaların kredi risklerini daha etkin bir şekilde yönetmelerine ve müşteri memnuniyetini artırmalarına katkıda bulunacaktır.
 
 # LOAN PREDICTION ANALYSIS
