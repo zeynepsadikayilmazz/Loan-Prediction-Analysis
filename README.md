@@ -70,4 +70,4 @@ o Loan Amount Estimation (Regression Problem): Regression algorithms such as Lin
 
     This project aims to help banks better understand and optimise their loan approval processes. Through data analysis and modelling steps, valuable insights will be gained on which factors influence loan applications and how the outcome of these applications can be predicted. The outputs of the project will help banks manage their credit risks more effectively and increase customer satisfaction.
 
-
+https://www.kaggle.com/code/zeynepsadkaylmaz/loan-prediction-analysis
