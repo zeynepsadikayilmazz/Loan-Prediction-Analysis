@@ -1,6 +1,7 @@
 # Loan Prediction Analysis
  
      Giriş
+     
      Bu proje, bir bankanın kredi başvurularına ilişkin verilerin analiz edilmesi, temizlenmesi ve modellenmesini amaçlamaktadır. Proje kapsamında, kredi başvurularının onaylanıp onaylanmadığını tahmin etmek için farklı sınıflandırma algoritmaları kullanılarak modeller oluşturuldu. Bunun yanında, kredi miktarının tahmin edilmesi için de regresyon algoritmaları değerlendirildi. Projenin amacı, bankanın kredi onay süreçlerini daha iyi anlamasına ve karar verme süreçlerini optimize etmesine yardımcı olmaktır.
      
      Veri Seti Hakkında
@@ -36,6 +37,7 @@ Bu proje, bankaların kredi onay süreçlerini daha iyi anlamalarına ve optimiz
 # LOAN PREDICTION ANALYSIS
 
      Introduction
+     
      This project aims to analyse, clean and model the data related to loan applications of a bank. Within the scope of the project, models were created using different classification algorithms to predict whether loan applications were approved or not. In addition, regression algorithms were also evaluated to predict the loan amount. The aim of the project is to help the bank better understand its loan approval processes and optimise its decision-making processes.
 
      About the Data Set
