@@ -2,7 +2,7 @@
  
      Giriş
      Bu proje, bir bankanın kredi başvurularına ilişkin verilerin analiz edilmesi, temizlenmesi ve modellenmesini amaçlamaktadır. Proje kapsamında, kredi başvurularının onaylanıp onaylanmadığını tahmin etmek için farklı sınıflandırma algoritmaları kullanılarak modeller oluşturuldu. Bunun yanında, kredi miktarının tahmin edilmesi için de regresyon algoritmaları değerlendirildi. Projenin amacı, bankanın kredi onay süreçlerini daha iyi anlamasına ve karar verme süreçlerini optimize etmesine yardımcı olmaktır.
-
+     
      Veri Seti Hakkında
      Bu projede kullanılan veri seti, 614 kredi başvurusuna ait bilgiler içermektedir. Veri seti, başvuru sahiplerinin demografik bilgileri, gelir düzeyleri, kredi geçmişleri ve başvurulan kredi miktarları gibi çeşitli özellikleri içermektedir. Bu özellikler, kredi başvurularının onaylanma durumu ile ilişkilendirilecektir.
      Veri seti şu sütunları içermektedir:
